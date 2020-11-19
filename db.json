@@ -1,14 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "shokugeki-no-soma-fake-API": [
+    { 
+      "id": 1, 
+      "title": "Roast Pork, Just Kidding",
+      "description": "Roast Pork, Just Kidding is a dish made by Sōma Yukihira in order to defend Restaurant Yukihira from being demolished by Yaeko Minegasaki, the urban life planner." 
+    },
+    { 
+      "id": 2, 
+      "title": "Chaliapin Steak Don",
+      "description": "Chaliapin Steak Don is a dish made by Sōma Yukihira for his first Shokugeki against Ikumi Mito."
+     },
+     { 
+      "id": 3, 
+      "title": "Sumire Karaage Roll",
+      "description": "Sumire Karaage Roll is a snack made by Sōma Yukihira and Ikumi Mito to help revive the Sumiredōri Shopping District from Mozuya's capital dominance."
+     },
+     { 
+      "id": 4, 
+      "title": "Apple Risotto",
+      "description": "Apple Risotto is a dish made by Sōma Yukihira during his 490th cooking duel against his father, Jōichirō Yukihira."
+     },
+     { 
+      "id": 5, 
+      "title": "Transforming Furikake Gohan",
+      "description": "Transforming Furikake Gohan is a dish made by Sōma Yukihira for Erina Nakiri during his enrollment test at Tōtsuki Culinary Academy. It is Restaurant Yukihira's 8th dish in the secret menu."
+     },
+     { 
+      "id": 6, 
+      "title": "Chicken Egg Tempura Don",
+      "description": "Chicken Egg Tempura Don is a dish made by Sōma Yukihira after he had a conversation with Erina Nakiri. It resembles the Transforming Furikake Gohan, the first dish Sōma ever made in front of Erina"
+     },
+     { 
+      "id": 7, 
+      "title": "Jōichirō Special Rich Ramen",
+      "description": "Jōichirō Special Rich Ramen is a dish made by Jōichirō Yukihira during his 490th cooking duel against his son, Sōma Yukihira."
+     }
+  ]
 }
